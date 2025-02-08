@@ -34,7 +34,7 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
-      'react/prop-types': 'warn', // prop-types ishlatilishini tekshiradi
+      'react/prop-types': 'close', // prop-types ishlatilishini tekshiradi
     },
   },
 ]
